@@ -6,6 +6,7 @@
 	* static field : 클래스 필드
 	* public static final : 정적인 고정된 변수
 	* private 으로 생성된 Constructor
+
 ## JAVA PROJECT : 07_inheritance
 * ex17_Object.ex01
 	* Object obj = new Dog();
@@ -15,11 +16,29 @@
 * ex17_Object.ex03
 	* lombok lib추가하기
 	* lombok 활용하기
+* ex17_Object.ex04
+	* .equals() 오버라이드
+* ex17_Object.quiz01
+	* Object의 equals(), toString() 오버라이드
+
 ## JAVA PROJECT : 08_exception
 * ex08_exception_class
 	* BankAccountException을 만들어 Exception활용하기
 	* try-catch를 이용한 MainClass
 	* throws를 이용한 MainClass2
+
+## JAVA PROJECT : 09_collection
+* ex01_generic
+	* 제너릭 타입에 대해
+	* 객체를 생성하거나 메소드를 호출할 때 타입을 지정
+	* 클래스명<제너릭 타입>
+* ex02_generic
+	* 제너릭 타입 2개 이상 사용하기
+* ex03_generic
+	* 제너릭 타입 배열 받기
+	* 제너릭 타입 배열 보내기
+* ex04_generic_method
+	* 제너릭 타입의 메소드
 
 ## lombok 사용방법
 1. lombok 설치
