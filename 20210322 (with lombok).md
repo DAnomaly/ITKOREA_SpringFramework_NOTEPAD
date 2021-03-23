@@ -43,7 +43,7 @@
 ## lombok 사용방법
 1. lombok 설치
 	1. 명령 프롬프트 실행
-	2. lombok.jar 파일이 있는 디렉터리로 이동
+	2. lombok.jar 파일이 있는 디렉터리로 이동 ```cd c:\...```
 	```다른 방법으로 폴더에서 shift + 우클릭을 통해 PowerShell창을 여는 방법 또한 있습니다```
 	3. java -jar lombok.jar
 	4. lombok을 설치할 eclipse 경로를 선택
